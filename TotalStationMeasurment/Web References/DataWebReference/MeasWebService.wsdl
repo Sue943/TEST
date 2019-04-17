@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="SetStartPath">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="StartPath" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SetStartPathResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SetStartPathResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetStartPath">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetStartPathResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetStartPathResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="test">
+        <s:complexType />
+      </s:element>
+      <s:element name="testResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="testResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DataSource">
+        <s:complexType />
+      </s:element>
+      <s:element name="DataSourceResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DataSourceResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="string" nillable="true" type="s:string" />
+      <s:element name="DataTable" nillable="true">
+        <s:complexType>
+          <s:sequence>
+            <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+            <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="SetStartPathSoapIn">
+    <wsdl:part name="parameters" element="tns:SetStartPath" />
+  </wsdl:message>
+  <wsdl:message name="SetStartPathSoapOut">
+    <wsdl:part name="parameters" element="tns:SetStartPathResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetStartPathSoapIn">
+    <wsdl:part name="parameters" element="tns:GetStartPath" />
+  </wsdl:message>
+  <wsdl:message name="GetStartPathSoapOut">
+    <wsdl:part name="parameters" element="tns:GetStartPathResponse" />
+  </wsdl:message>
+  <wsdl:message name="testSoapIn">
+    <wsdl:part name="parameters" element="tns:test" />
+  </wsdl:message>
+  <wsdl:message name="testSoapOut">
+    <wsdl:part name="parameters" element="tns:testResponse" />
+  </wsdl:message>
+  <wsdl:message name="DataSourceSoapIn">
+    <wsdl:part name="parameters" element="tns:DataSource" />
+  </wsdl:message>
+  <wsdl:message name="DataSourceSoapOut">
+    <wsdl:part name="parameters" element="tns:DataSourceResponse" />
+  </wsdl:message>
+  <wsdl:message name="SetStartPathHttpGetIn">
+    <wsdl:part name="StartPath" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="SetStartPathHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="GetStartPathHttpGetIn" />
+  <wsdl:message name="GetStartPathHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="testHttpGetIn" />
+  <wsdl:message name="testHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="DataSourceHttpGetIn" />
+  <wsdl:message name="DataSourceHttpGetOut">
+    <wsdl:part name="Body" element="tns:DataTable" />
+  </wsdl:message>
+  <wsdl:message name="SetStartPathHttpPostIn">
+    <wsdl:part name="StartPath" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="SetStartPathHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="GetStartPathHttpPostIn" />
+  <wsdl:message name="GetStartPathHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="testHttpPostIn" />
+  <wsdl:message name="testHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="DataSourceHttpPostIn" />
+  <wsdl:message name="DataSourceHttpPostOut">
+    <wsdl:part name="Body" element="tns:DataTable" />
+  </wsdl:message>
+  <wsdl:portType name="MeasWebServiceSoap">
+    <wsdl:operation name="SetStartPath">
+      <wsdl:input message="tns:SetStartPathSoapIn" />
+      <wsdl:output message="tns:SetStartPathSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetStartPath">
+      <wsdl:input message="tns:GetStartPathSoapIn" />
+      <wsdl:output message="tns:GetStartPathSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="test">
+      <wsdl:input message="tns:testSoapIn" />
+      <wsdl:output message="tns:testSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DataSource">
+      <wsdl:input message="tns:DataSourceSoapIn" />
+      <wsdl:output message="tns:DataSourceSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="MeasWebServiceHttpGet">
+    <wsdl:operation name="SetStartPath">
+      <wsdl:input message="tns:SetStartPathHttpGetIn" />
+      <wsdl:output message="tns:SetStartPathHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetStartPath">
+      <wsdl:input message="tns:GetStartPathHttpGetIn" />
+      <wsdl:output message="tns:GetStartPathHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="test">
+      <wsdl:input message="tns:testHttpGetIn" />
+      <wsdl:output message="tns:testHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DataSource">
+      <wsdl:input message="tns:DataSourceHttpGetIn" />
+      <wsdl:output message="tns:DataSourceHttpGetOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="MeasWebServiceHttpPost">
+    <wsdl:operation name="SetStartPath">
+      <wsdl:input message="tns:SetStartPathHttpPostIn" />
+      <wsdl:output message="tns:SetStartPathHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetStartPath">
+      <wsdl:input message="tns:GetStartPathHttpPostIn" />
+      <wsdl:output message="tns:GetStartPathHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="test">
+      <wsdl:input message="tns:testHttpPostIn" />
+      <wsdl:output message="tns:testHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DataSource">
+      <wsdl:input message="tns:DataSourceHttpPostIn" />
+      <wsdl:output message="tns:DataSourceHttpPostOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="MeasWebServiceSoap" type="tns:MeasWebServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SetStartPath">
+      <soap:operation soapAction="http://tempuri.org/SetStartPath" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetStartPath">
+      <soap:operation soapAction="http://tempuri.org/GetStartPath" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="test">
+      <soap:operation soapAction="http://tempuri.org/test" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DataSource">
+      <soap:operation soapAction="http://tempuri.org/DataSource" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="MeasWebServiceSoap12" type="tns:MeasWebServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SetStartPath">
+      <soap12:operation soapAction="http://tempuri.org/SetStartPath" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetStartPath">
+      <soap12:operation soapAction="http://tempuri.org/GetStartPath" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="test">
+      <soap12:operation soapAction="http://tempuri.org/test" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DataSource">
+      <soap12:operation soapAction="http://tempuri.org/DataSource" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="MeasWebServiceHttpGet" type="tns:MeasWebServiceHttpGet">
+    <http:binding verb="GET" />
+    <wsdl:operation name="SetStartPath">
+      <http:operation location="/SetStartPath" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetStartPath">
+      <http:operation location="/GetStartPath" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="test">
+      <http:operation location="/test" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DataSource">
+      <http:operation location="/DataSource" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="MeasWebServiceHttpPost" type="tns:MeasWebServiceHttpPost">
+    <http:binding verb="POST" />
+    <wsdl:operation name="SetStartPath">
+      <http:operation location="/SetStartPath" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetStartPath">
+      <http:operation location="/GetStartPath" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="test">
+      <http:operation location="/test" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DataSource">
+      <http:operation location="/DataSource" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="MeasWebService">
+    <wsdl:port name="MeasWebServiceSoap" binding="tns:MeasWebServiceSoap">
+      <soap:address location="http://172.20.10.2:8090/MeasWebService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="MeasWebServiceSoap12" binding="tns:MeasWebServiceSoap12">
+      <soap12:address location="http://172.20.10.2:8090/MeasWebService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="MeasWebServiceHttpGet" binding="tns:MeasWebServiceHttpGet">
+      <http:address location="http://172.20.10.2:8090/MeasWebService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="MeasWebServiceHttpPost" binding="tns:MeasWebServiceHttpPost">
+      <http:address location="http://172.20.10.2:8090/MeasWebService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--?xml version="1.0" encoding="utf-8"?-->
+<Station>
+  <XYZ>
+    <Name>a1</Name>
+    <X>0</X>
+    <Y>0</Y>
+    <Z>0</Z>
+    <H>0</H>
+  </XYZ>
+  <Back>
+    <Name>a1</Name>
+    <X>0</X>
+    <Y>0</Y>
+    <Z>0</Z>
+    <H>0</H>
+  </Back>
+  <Az>
+    <Name>a1</Name>
+    <Az>0</Az>
+    <H0>0</H0>
+  </Az>
+  <BackMeas>
+    <X>0</X>
+    <Y>0</Y>
+    <Z>0</Z>
+    <Hz>6.2828720766731827</Hz>
+    <Vt>1.6423813324607339</Vt>
+    <SlopeDistance>2.1540551424008219</SlopeDistance>
+    <DesignedDistance>0</DesignedDistance>
+    <DistanceOffset>-2.146</DistanceOffset>
+    <DeltaX>2.149</DeltaX>
+    <DeltaY>-0.001</DeltaY>
+    <DeltaZ>-0.154</DeltaZ>
+  </BackMeas>
+  <Test>
+    <C>0</C>
+    <L>0</L>
+    <Power>0</Power>
+  </Test>
+</Station>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--?xml version="1.0" encoding="utf-8"?-->
+<Parameter>
+  <SixPrism>
+    <Prism1X>0</Prism1X>
+    <Prism1Y>0</Prism1Y>
+    <Prism1Z>0</Prism1Z>
+    <Prism2X>0</Prism2X>
+    <Prism2Y>0</Prism2Y>
+    <Prism2Z>0</Prism2Z>
+    <Prism3X>0</Prism3X>
+    <Prism3Y>0</Prism3Y>
+    <Prism3Z>0</Prism3Z>
+    <Prism4X>0</Prism4X>
+    <Prism4Y>0</Prism4Y>
+    <Prism4Z>0</Prism4Z>
+    <Prism5X>0</Prism5X>
+    <Prism5Y>0</Prism5Y>
+    <Prism5Z>0</Prism5Z>
+    <Prism6X>0</Prism6X>
+    <Prism6Y>0</Prism6Y>
+    <Prism6Z>0</Prism6Z>
+  </SixPrism>
+  <theta>
+    <thetaX>-0.597381591796875</thetaX>
+    <thetaY>-0.33782958984375</thetaY>
+  </theta>
+  <DesignR>
+    <R>0</R>
+  </DesignR>
+</Parameter>

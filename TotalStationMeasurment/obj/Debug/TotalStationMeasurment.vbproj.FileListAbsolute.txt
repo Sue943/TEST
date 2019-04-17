@@ -1,0 +1,261 @@
+e:\users\sumin\documents\visual studio 2013\Projects\TotalStationMeasurment\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe.config
+e:\users\sumin\documents\visual studio 2013\Projects\TotalStationMeasurment\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.FormMain.resources
+e:\users\sumin\documents\visual studio 2013\Projects\TotalStationMeasurment\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Resources.resources
+e:\users\sumin\documents\visual studio 2013\Projects\TotalStationMeasurment\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbproj.GenerateResource.Cache
+e:\users\sumin\documents\visual studio 2013\Projects\TotalStationMeasurment\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe
+e:\users\sumin\documents\visual studio 2013\Projects\TotalStationMeasurment\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.pdb
+e:\users\sumin\documents\visual studio 2013\Projects\TotalStationMeasurment\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.xml
+e:\users\sumin\documents\visual studio 2013\Projects\TotalStationMeasurment\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.exe
+e:\users\sumin\documents\visual studio 2013\Projects\TotalStationMeasurment\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.xml
+e:\users\sumin\documents\visual studio 2013\Projects\TotalStationMeasurment\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.pdb
+e:\users\sumin\documents\visual studio 2013\Projects\TotalStationMeasurment\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Form1.resources
+e:\users\sumin\documents\visual studio 2013\Projects\TotalStationMeasurment\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.AddStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe.config
+E:\Users\sumin\Desktop\TotalStationMeasurment\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.FormMain.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Resources.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbproj.GenerateResource.Cache
+E:\Users\sumin\Desktop\TotalStationMeasurment\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.ProjectInfo.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.AddStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.SetStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Orientation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181222\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe.config
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181222\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181222\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181222\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181222\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181222\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181222\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181222\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.AddStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181222\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.FormMain.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181222\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Resources.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181222\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Orientation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181222\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.ProjectInfo.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181222\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.SetStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181222\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbproj.GenerateResource.Cache
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181222\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Measurement.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181225\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe.config
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181225\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181225\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181225\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181225\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181225\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181225\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181225\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.AddStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181225\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.FormMain.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181225\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Measurement.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181225\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Resources.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181225\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Orientation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181225\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.ProjectInfo.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181225\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.SetStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181225\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbproj.GenerateResource.Cache
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181224-\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe.config
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181224-\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181224-\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181224-\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181224-\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181224-\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181224-\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181224-\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.AddStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181224-\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.FormMain.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181224-\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Measurement.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181224-\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Resources.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181224-\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Orientation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181224-\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.ProjectInfo.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181224-\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.SetStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181224-\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbproj.GenerateResource.Cache
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe.config
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.AddStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.FormMain.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Measurement.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Resources.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Orientation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.ProjectInfo.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.SetStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbproj.GenerateResource.Cache
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227.1\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe.config
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227.1\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227.1\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227.1\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227.1\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227.1\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227.1\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227.1\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbprojResolveAssemblyReference.cache
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227.1\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.AddStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227.1\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.FormMain.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227.1\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Measurement.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227.1\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Resources.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227.1\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Orientation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227.1\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.ProjectInfo.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227.1\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.SetStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227.1\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbproj.GenerateResource.Cache
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227.1\TotalStationMeasurment\bin\Debug\TotalStationData.mdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181227.1\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Form1.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181229\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe.config
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181229\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181229\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181229\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181229\TotalStationMeasurment\bin\Debug\TotalStationData.mdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181229\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181229\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181229\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181229\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.AddStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181229\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.FormMain.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181229\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Measurement.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181229\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Resources.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181229\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Orientation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181229\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.ProjectInfo.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181229\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.SetStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20181229\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbproj.GenerateResource.Cache
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190109\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe.config
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190109\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190109\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190109\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190109\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.AddStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190109\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.FormMain.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190109\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Measurement.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190109\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Resources.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190109\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Orientation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190109\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.ProjectInfo.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190109\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.SetStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190109\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbproj.GenerateResource.Cache
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190109\TotalStationMeasurment\bin\Debug\TotalStationData.mdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190109\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190109\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190109\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190109\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbprojResolveAssemblyReference.cache
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190111\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe.config
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190111\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190111\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190111\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190111\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbprojResolveAssemblyReference.cache
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190111\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.AddStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190111\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.FormMain.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190111\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Measurement.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190111\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Resources.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190111\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Orientation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190111\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.ProjectInfo.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190111\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.SetStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190111\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbproj.GenerateResource.Cache
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190111\TotalStationMeasurment\bin\Debug\TotalStationData.mdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190111\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190111\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190111\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190115\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe.config
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190115\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190115\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190115\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190115\TotalStationMeasurment\bin\Debug\TotalStationData.mdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190115\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190115\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190115\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190115\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbprojResolveAssemblyReference.cache
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190115\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.AddStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190115\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.FormMain.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190115\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Measurement.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190115\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Resources.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190115\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Orientation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190115\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.ProjectInfo.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190115\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.SetStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190115\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbproj.GenerateResource.Cache
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190116\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe.config
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190116\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190116\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190116\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190116\TotalStationMeasurment\bin\Debug\TotalStationData.mdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190116\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190116\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190116\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190116\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbprojResolveAssemblyReference.cache
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190116\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.AddStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190116\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.FormMain.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190116\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Measurement.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190116\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Resources.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190116\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Orientation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190116\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.ProjectInfo.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190116\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.SetStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190116\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbproj.GenerateResource.Cache
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190130\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe.config
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190130\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190130\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190130\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190130\TotalStationMeasurment\bin\Debug\TotalStationData.mdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190130\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190130\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190130\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190130\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbprojResolveAssemblyReference.cache
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190130\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.AddStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190130\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.FormMain.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190130\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Measurement.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190130\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Resources.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190130\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Orientation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190130\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.ProjectInfo.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190130\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.SetStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190130\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbproj.GenerateResource.Cache
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190217\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe.config
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190217\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190217\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190217\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190217\TotalStationMeasurment\bin\Debug\TotalStationData.mdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190217\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190217\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190217\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190217\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbprojResolveAssemblyReference.cache
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190217\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.AddStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190217\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.FormMain.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190217\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Measurement.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190217\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Resources.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190217\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Orientation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190217\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.ProjectInfo.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190217\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.SetStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190217\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbproj.GenerateResource.Cache
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190219\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe.config
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190219\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190219\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190219\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190219\TotalStationMeasurment\bin\Debug\TotalStationData.mdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190219\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190219\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190219\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190219\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbprojResolveAssemblyReference.cache
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190219\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.AddStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190219\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.FormMain.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190219\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Measurement.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190219\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Resources.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190219\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Orientation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190219\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.ProjectInfo.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190219\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.SetStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190219\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbproj.GenerateResource.Cache
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190219 - 副本\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe.config
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190219 - 副本\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190219 - 副本\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 20190219 - 副本\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 2019.2.27\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe.config
+E:\Users\sumin\Desktop\TotalStationMeasurment 2019.2.27\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 2019.2.27\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 2019.2.27\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 2019.2.27\TotalStationMeasurment\bin\Debug\TotalStationData.mdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 2019.2.27\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.exe
+E:\Users\sumin\Desktop\TotalStationMeasurment 2019.2.27\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.pdb
+E:\Users\sumin\Desktop\TotalStationMeasurment 2019.2.27\TotalStationMeasurment\bin\Debug\TotalStationMeasurment.xml
+E:\Users\sumin\Desktop\TotalStationMeasurment 2019.2.27\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbprojResolveAssemblyReference.cache
+E:\Users\sumin\Desktop\TotalStationMeasurment 2019.2.27\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.AddStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 2019.2.27\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.FormMain.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 2019.2.27\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Measurement.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 2019.2.27\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Resources.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 2019.2.27\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.Orientation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 2019.2.27\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.ProjectInfo.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 2019.2.27\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.SetStation.resources
+E:\Users\sumin\Desktop\TotalStationMeasurment 2019.2.27\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.vbproj.GenerateResource.Cache
+E:\Users\sumin\Desktop\TotalStationMeasurment 2019.2.27\TotalStationMeasurment\obj\Debug\TotalStationMeasurment.DesignR.resources

@@ -1,0 +1,462 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TotalStationMeasurment
+</name>
+</assembly>
+<members>
+<member name="T:TotalStationMeasurment.TotalStationDataDataSet.BackCheckDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.BackDirectionalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.CrccUserDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.DTADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.JointDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.LaserTargetDirectionalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.LaserTargetInitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.LaserTargetInitSetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.LaserTargetMeasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.LaserTargetMeasReturnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.ParameterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.StationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.StationSetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.TBMDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.TwoPrismCheckDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.TwoPrismDirectionalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.TwoPrismInitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.TwoPrismMeasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.BackCheckRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.BackDirectionalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.CrccUserRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.DTARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.JointRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.LaserTargetDirectionalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.LaserTargetInitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.LaserTargetInitSetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.LaserTargetMeasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.LaserTargetMeasReturnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.ParameterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.StationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.StationSetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.TBMRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.TwoPrismCheckRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.TwoPrismDirectionalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.TwoPrismInitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.TwoPrismMeasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.BackCheckRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.BackDirectionalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.CrccUserRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.DTARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.JointRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.LaserTargetDirectionalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.LaserTargetInitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.LaserTargetInitSetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.LaserTargetMeasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.LaserTargetMeasReturnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.ParameterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.StationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.StationSetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.TBMRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.TwoPrismCheckRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.TwoPrismDirectionalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.TwoPrismInitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet.TwoPrismMeasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.BackCheckTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.BackDirectionalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.CrccUserTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.DTATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.JointTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.LaserTargetDirectionalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.LaserTargetInitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.LaserTargetInitSetTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.LaserTargetMeasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.LaserTargetMeasReturnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.ParameterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.StationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.StationSetTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.TBMTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.TwoPrismCheckTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.TwoPrismDirectionalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.TwoPrismInitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.TwoPrismMeasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(TotalStationMeasurment.TotalStationDataDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(TotalStationMeasurment.TotalStationDataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(TotalStationMeasurment.TotalStationDataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.TableAdapterManager.UpdateAll(TotalStationMeasurment.TotalStationDataDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="M:TotalStationMeasurment.DataWebReference.MeasWebService.#ctor">
+	<remarks/>
+</member><member name="E:TotalStationMeasurment.DataWebReference.MeasWebService.SetStartPathCompleted">
+	<remarks/>
+</member><member name="E:TotalStationMeasurment.DataWebReference.MeasWebService.GetStartPathCompleted">
+	<remarks/>
+</member><member name="E:TotalStationMeasurment.DataWebReference.MeasWebService.testCompleted">
+	<remarks/>
+</member><member name="E:TotalStationMeasurment.DataWebReference.MeasWebService.DataSourceCompleted">
+	<remarks/>
+</member><member name="M:TotalStationMeasurment.DataWebReference.MeasWebService.SetStartPath(System.String)">
+	<remarks/>
+</member><member name="M:TotalStationMeasurment.DataWebReference.MeasWebService.SetStartPathAsync(System.String)">
+	<remarks/>
+</member><member name="M:TotalStationMeasurment.DataWebReference.MeasWebService.SetStartPathAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:TotalStationMeasurment.DataWebReference.MeasWebService.GetStartPath">
+	<remarks/>
+</member><member name="M:TotalStationMeasurment.DataWebReference.MeasWebService.GetStartPathAsync">
+	<remarks/>
+</member><member name="M:TotalStationMeasurment.DataWebReference.MeasWebService.GetStartPathAsync(System.Object)">
+	<remarks/>
+</member><member name="M:TotalStationMeasurment.DataWebReference.MeasWebService.test">
+	<remarks/>
+</member><member name="M:TotalStationMeasurment.DataWebReference.MeasWebService.testAsync">
+	<remarks/>
+</member><member name="M:TotalStationMeasurment.DataWebReference.MeasWebService.testAsync(System.Object)">
+	<remarks/>
+</member><member name="M:TotalStationMeasurment.DataWebReference.MeasWebService.DataSource">
+	<remarks/>
+</member><member name="M:TotalStationMeasurment.DataWebReference.MeasWebService.DataSourceAsync">
+	<remarks/>
+</member><member name="M:TotalStationMeasurment.DataWebReference.MeasWebService.DataSourceAsync(System.Object)">
+	<remarks/>
+</member><member name="M:TotalStationMeasurment.DataWebReference.MeasWebService.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:TotalStationMeasurment.DataWebReference.MeasWebService">
+	<remarks/>
+</member><member name="T:TotalStationMeasurment.DataWebReference.SetStartPathCompletedEventHandler">
+	<remarks/>
+</member><member name="P:TotalStationMeasurment.DataWebReference.SetStartPathCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:TotalStationMeasurment.DataWebReference.SetStartPathCompletedEventArgs">
+	<remarks/>
+</member><member name="T:TotalStationMeasurment.DataWebReference.GetStartPathCompletedEventHandler">
+	<remarks/>
+</member><member name="P:TotalStationMeasurment.DataWebReference.GetStartPathCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:TotalStationMeasurment.DataWebReference.GetStartPathCompletedEventArgs">
+	<remarks/>
+</member><member name="T:TotalStationMeasurment.DataWebReference.testCompletedEventHandler">
+	<remarks/>
+</member><member name="P:TotalStationMeasurment.DataWebReference.testCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:TotalStationMeasurment.DataWebReference.testCompletedEventArgs">
+	<remarks/>
+</member><member name="T:TotalStationMeasurment.DataWebReference.DataSourceCompletedEventHandler">
+	<remarks/>
+</member><member name="P:TotalStationMeasurment.DataWebReference.DataSourceCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:TotalStationMeasurment.DataWebReference.DataSourceCompletedEventArgs">
+	<remarks/>
+</member><member name="P:TotalStationMeasurment.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:TotalStationMeasurment.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:TotalStationMeasurment.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet1.StationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet1.StationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet1.StationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet1TableAdapters.StationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:TotalStationMeasurment.TotalStationDataDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(TotalStationMeasurment.TotalStationDataDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:TotalStationMeasurment.TotalStationDataDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(TotalStationMeasurment.TotalStationDataDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:TotalStationMeasurment.TotalStationDataDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(TotalStationMeasurment.TotalStationDataDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:TotalStationMeasurment.TotalStationDataDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:TotalStationMeasurment.TotalStationDataDataSet1TableAdapters.TableAdapterManager.UpdateAll(TotalStationMeasurment.TotalStationDataDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:TotalStationMeasurment.TotalStationDataDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
